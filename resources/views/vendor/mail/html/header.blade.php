@@ -2,7 +2,7 @@
 <tr>
 <td class="header">
 <a href="{{ $url }}" style="display: inline-block;">
-<img src="{{ asset('pblogo.png') }}" class="logo" alt="PB Logo">
+<img src="{{ config('http://asg2.duckdns.org') }}/pblogo.png" alt="PB Logo">
 </a>
 </td>
 </tr>
